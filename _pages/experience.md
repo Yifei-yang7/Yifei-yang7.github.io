@@ -6,6 +6,12 @@ author_profile: true
 
 Research/Work Experience
 ------
+**Software Engineer Intern**, [_Amazon Redshift_](https://aws.amazon.com/redshift/)\\
+CA, May 2023 - Aug 2023
+
+**Software Engineer Intern**, [_Amazon Redshift_](https://aws.amazon.com/redshift/)\\
+CA, May 2022 - Aug 2022
+
 **Software Engineer Intern**, [_Dremio_](https://www.dremio.com/)\\
 CA, Jun 2021 - Aug 2021
 
