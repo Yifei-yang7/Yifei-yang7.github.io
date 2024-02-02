@@ -8,11 +8,11 @@ Publications
 ------
 **Predicate Transfer: Efficient Pre-Filtering on Multi-Join Queries**\\
 _<ins>Yifei Yang</ins>, Hangdong Zhao, Xiangyao Yu, Paraschos Koutris_\\
-Proceedings of The Conference on Innovative Data Systems Research (**CIDR**), Jan 2024 (To appear)
+Proceedings of The Conference on Innovative Data Systems Research (**CIDR**), Jan 2024 [[paper]](https://www.cidrdb.org/cidr2024/papers/p22-yang.pdf) [[code]](https://github.com/cloud-olap/FlexPushdownDB/releases/tag/cidr_24)
 
 **FlexPushdownDB: Hybrid Pushdown and Caching in a Cloud DBMS**\\
 _<ins>Yifei Yang</ins>, Matt Youill, Matthew Woicik, Yizhou Liu, Xiangyao Yu, Marco Serafini, Ashraf Aboulnaga, Michael Stonebraker_\\
-Proceedings of the **VLDB** Endowment, July 2021 [[paper]](http://vldb.org/pvldb/vol14/p2101-yang.pdf) [[code]](https://github.com/cloud-olap/FlexPushdownDB)
+Proceedings of the **VLDB** Endowment, July 2021 [[paper]](http://vldb.org/pvldb/vol14/p2101-yang.pdf) [[code]](https://github.com/cloud-olap/FlexPushdownDB/releases/tag/vldb_21)
 
 **ESTOCADA: Towards Scalable Polystore Systems**\\
 _Rana Alotaibi, Bogdan Cautis, Alin Deutsch, Moustafa Latrache, Ioana Manolescu, <ins>Yifei Yang</ins>_\\
