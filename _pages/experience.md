@@ -6,6 +6,9 @@ author_profile: true
 
 Research/Work Experience
 ------
+**Software Engineer Intern**, [_Google BigQuery_](https://cloud.google.com/bigquery)\\
+WA, May 2024 - Aug 2024
+
 **Software Engineer Intern**, [_Amazon Redshift_](https://aws.amazon.com/redshift/)\\
 CA, May 2023 - Aug 2023
 

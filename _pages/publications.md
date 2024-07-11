@@ -6,9 +6,13 @@ author_profile: true
 
 Publications
 ------
+**FlexpushdownDB: Rethinking Computation Pushdown for Cloud OLAP DBMSs**\\
+_<ins>Yifei Yang</ins>, Xiangyao Yu, Xiangyao Yu, Marco Serafini, Ashraf Aboulnaga, Michael Stonebraker_\\
+The VLDB Journal (**VLDBJ**), July 2024 [[paper]](https://link.springer.com/article/10.1007/s00778-024-00867-8) [[code]](https://github.com/cloud-olap/FlexPushdownDB/tree/vldbj_24)
+
 **Predicate Transfer: Efficient Pre-Filtering on Multi-Join Queries**\\
 _<ins>Yifei Yang</ins>, Hangdong Zhao, Xiangyao Yu, Paraschos Koutris_\\
-Proceedings of The Conference on Innovative Data Systems Research (**CIDR**), Jan 2024 [[paper]](https://www.cidrdb.org/cidr2024/papers/p22-yang.pdf) [[code]](https://github.com/cloud-olap/FlexPushdownDB/releases/tag/cidr_24)
+Proceedings of The Conference on Innovative Data Systems Research (**CIDR**), Jan 2024 [[paper]](https://www.cidrdb.org/cidr2024/papers/p22-yang.pdf) [[code]](https://github.com/cloud-olap/FlexPushdownDB/releases/tag/cidr_24) [[podcast]](https://disseminatepodcast.podcastpage.io/episode/yifei-yang-predicate-transfer-efficient-pre-filtering-on-multi-join-queries-48)
 
 **FlexPushdownDB: Hybrid Pushdown and Caching in a Cloud DBMS**\\
 _<ins>Yifei Yang</ins>, Matt Youill, Matthew Woicik, Yizhou Liu, Xiangyao Yu, Marco Serafini, Ashraf Aboulnaga, Michael Stonebraker_\\
