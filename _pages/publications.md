@@ -7,7 +7,7 @@ author_profile: true
 Publications
 ------
 **FlexpushdownDB: Rethinking Computation Pushdown for Cloud OLAP DBMSs**\\
-_<ins>Yifei Yang</ins>, Xiangyao Yu, Xiangyao Yu, Marco Serafini, Ashraf Aboulnaga, Michael Stonebraker_\\
+_<ins>Yifei Yang</ins>, Xiangyao Yu, Marco Serafini, Ashraf Aboulnaga, Michael Stonebraker_\\
 The VLDB Journal (**VLDBJ**), July 2024 [[paper]](https://link.springer.com/article/10.1007/s00778-024-00867-8) [[code]](https://github.com/cloud-olap/FlexPushdownDB/tree/vldbj_24)
 
 **Predicate Transfer: Efficient Pre-Filtering on Multi-Join Queries**\\
