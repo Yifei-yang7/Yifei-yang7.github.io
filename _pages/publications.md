@@ -6,6 +6,14 @@ author_profile: true
 
 Publications
 ------
+**Accelerate Distributed Joins with Predicate Transfer**\\
+_<ins>Yifei Yang</ins>, Xiangyao Yu_\\
+Proceedings of **SIGMOD**, June 2025 [[paper]]() [[code]](https://github.com/cloud-olap/FlexPushdownDB/tree/sigmod_25)
+
+**Debunking the Myth of Join Ordering: Toward Robust SQL Analytics**\\
+_Junyi Zhao, Kai Su, <ins>Yifei Yang</ins>, Xiangyao Yu, Paraschos Koutris, Huanchen Zhang_\\
+Proceedings of **SIGMOD**, June 2025 [[paper]]() [[extended version]](https://arxiv.org/pdf/2502.15181) [[code]](https://github.com/zzjjyyy/PredTransDuckDB)
+
 **FlexpushdownDB: Rethinking Computation Pushdown for Cloud OLAP DBMSs**\\
 _<ins>Yifei Yang</ins>, Xiangyao Yu, Marco Serafini, Ashraf Aboulnaga, Michael Stonebraker_\\
 The VLDB Journal (**VLDBJ**), July 2024 [[paper]](https://link.springer.com/article/10.1007/s00778-024-00867-8) [[code]](https://github.com/cloud-olap/FlexPushdownDB/tree/vldbj_24)
