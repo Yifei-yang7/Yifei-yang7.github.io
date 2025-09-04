@@ -6,6 +6,10 @@ author_profile: true
 
 Publications
 ------
+**Rethinking Analytical Processing in the GPU Era**\\
+_Bobbi Yogatama*, <ins>Yifei Yang*</ins>, Kevin Kristensen, Devesh Sarda, Abigale Kim, Adrian Cockcroft, Yu Teng, Joshua Patterson, Gregory Kimball, Wes McKinney, Weiwei Gong, Xiangyao Yu_\\
+arXiv preprint, August 2025 [[paper]](https://arxiv.org/abs/2508.04701) [[code]](https://github.com/sirius-db/sirius)
+
 **Accelerate Distributed Joins with Predicate Transfer**\\
 _<ins>Yifei Yang</ins>, Xiangyao Yu_\\
 Proceedings of **SIGMOD**, June 2025 [[paper]](https://dl.acm.org/doi/10.1145/3725259) [[code]](https://github.com/cloud-olap/FlexPushdownDB/tree/sigmod_25)
