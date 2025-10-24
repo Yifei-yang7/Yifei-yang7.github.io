@@ -8,7 +8,7 @@ Publications
 ------
 **Rethinking Analytical Processing in the GPU Era**\\
 _Bobbi Yogatama*, <ins>Yifei Yang*</ins>, Kevin Kristensen, Devesh Sarda, Abigale Kim, Adrian Cockcroft, Yu Teng, Joshua Patterson, Gregory Kimball, Wes McKinney, Weiwei Gong, Xiangyao Yu_\\
-arXiv preprint, August 2025 [[paper]](https://arxiv.org/abs/2508.04701) [[code]](https://github.com/sirius-db/sirius)
+Proceedings of **CIDR**, Jan 2026 [[paper]](https://arxiv.org/abs/2508.04701) [[code]](https://github.com/sirius-db/sirius)
 
 **Accelerate Distributed Joins with Predicate Transfer**\\
 _<ins>Yifei Yang</ins>, Xiangyao Yu_\\
@@ -24,7 +24,7 @@ The VLDB Journal (**VLDBJ**), July 2024 [[paper]](https://link.springer.com/arti
 
 **Predicate Transfer: Efficient Pre-Filtering on Multi-Join Queries**\\
 _<ins>Yifei Yang</ins>, Hangdong Zhao, Xiangyao Yu, Paraschos Koutris_\\
-Proceedings of The Conference on Innovative Data Systems Research (**CIDR**), Jan 2024 [[paper]](https://www.cidrdb.org/cidr2024/papers/p22-yang.pdf) [[code]](https://github.com/cloud-olap/FlexPushdownDB/releases/tag/cidr_24) [[podcast]](https://disseminatepodcast.podcastpage.io/episode/yifei-yang-predicate-transfer-efficient-pre-filtering-on-multi-join-queries-48)
+Proceedings of **CIDR**, Jan 2024 [[paper]](https://www.cidrdb.org/cidr2024/papers/p22-yang.pdf) [[code]](https://github.com/cloud-olap/FlexPushdownDB/releases/tag/cidr_24) [[podcast]](https://disseminatepodcast.podcastpage.io/episode/yifei-yang-predicate-transfer-efficient-pre-filtering-on-multi-join-queries-48)
 
 **FlexPushdownDB: Hybrid Pushdown and Caching in a Cloud DBMS**\\
 _<ins>Yifei Yang</ins>, Matt Youill, Matthew Woicik, Yizhou Liu, Xiangyao Yu, Marco Serafini, Ashraf Aboulnaga, Michael Stonebraker_\\
